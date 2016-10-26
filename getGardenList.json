@@ -103,17 +103,17 @@
             "praiseInfo": [
                 {
                     "accessPk": 20044,
-                    "userId": "4444",
+                    "userId": "00",
                     "userName": "慧慧家长"
                 },
                 {
                     "accessPk": 20044,
-                    "userId": "4444",
+                    "userId": "4",
                     "userName": "小看家长"
                 },
                 {
                     "accessPk": 20044,
-                    "userId": "4444",
+                    "userId": "444",
                     "userName": "小看家长"
                 },
                 {
@@ -182,17 +182,17 @@
             "praiseInfo": [
                 {
                     "accessPk": 20044,
-                    "userId": "4444",
+                    "userId": "4",
                     "userName": "小看家长"
                 },
                 {
                     "accessPk": 20044,
-                    "userId": "4444",
+                    "userId": "00",
                     "userName": "慧慧家长"
                 },
                 {
                     "accessPk": 20044,
-                    "userId": "4444",
+                    "userId": "44",
                     "userName": "小看家长"
                 },
                 {
@@ -385,7 +385,7 @@
     "newMsgNum": 8,
     "user": {
         "corpId": "测试内容ud02",
-        "userId": "222222222222222",
+        "userId": "00",
         "userName": "慧慧家长"
     }
 }
