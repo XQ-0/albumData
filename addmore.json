@@ -1,0 +1,20 @@
+{
+    "code":"200","data":
+    {
+        "ablumArr":[
+        {
+            "ablumDesc":"","ablumPk":2977,"commentInfo":{}
+            ,"commentNum":0,"createDate":"昨天 ","createHeadImgUrl":"http://shp.qpic.cn/bizmp/rZNq2ZKLevT1dyz51u6U6iaD9jgN0C1YXhdhyHibX3x8SjyHhBBsGfAA/","createUserName":"刘丹","currIsPrais":"1","currIsUser":"false","photoArr":[
+            {
+                "ablumPk":2977,"h":640,"photoPk":4748,"url":"http://classpic.img-cn-hangzhou.aliyuncs.com/wx63160be4f999699a-2977-101.jpg","w":360
+            }
+            ],"photoLen":1,"praiseInfo":[
+            {
+                "accessPk":1314,"userId":"0318ad9a-42f8-4349-ba51-7908d8a59ed0","userName":"苏小平"
+            }
+            ],"praiseNum":1
+        }
+        ]
+    }
+    ,"msg":"测试内容xm22"
+}
